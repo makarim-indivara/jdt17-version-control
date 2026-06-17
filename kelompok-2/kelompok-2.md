@@ -18,7 +18,6 @@ feature punya idham
 
 // ini kenzie edit
 
-<<<<<<< HEAD
 
 // ini edi conflict
 
@@ -37,8 +36,5 @@ feature punya idham
 
 
 edi bikin konflik
-=======
-
 
 // ini kenzie coba bikin conflict kalo bisa
->>>>>>> 3d2ad61 (feat: bikin masalah)
