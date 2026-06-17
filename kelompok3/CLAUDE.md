@@ -3,7 +3,7 @@
 ## README is a product artifjhfusjfiskjodkcOJofjsijfodsosjfofjoskfosjfoisjosfmvosjovjvosjvosjvosjofact
 
 README = product front door. Non-technical people read it to decide if caveman worth install. Treat like UI copy.
-
+```````
 **Rules for any README change:**
 
 - Readable by non-AI-agent users. If you write "SessionStart hook injects system context," invisible to most — translate it.
