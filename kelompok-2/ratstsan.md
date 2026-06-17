@@ -1,2 +1,1 @@
 ##ini file ratstsan
-##tambahan
