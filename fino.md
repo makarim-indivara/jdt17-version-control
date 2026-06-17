@@ -1,5 +1,5 @@
 ini punya fino
 
-ini commit pertama
+ini commit 1
 
-ini commit kedua
+ini commit 2
