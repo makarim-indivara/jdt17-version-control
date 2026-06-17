@@ -1,5 +1,6 @@
 # CLAUDE.md — caveman
 
+t
 ## README is a product artifact
 
 README = product front door. Non-technical people read it to decide if caveman worth install. Treat like UI copy.
