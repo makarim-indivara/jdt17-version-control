@@ -9,3 +9,22 @@ ini readme kelompok 2
 
 
 // ini kenzie edit
+
+
+// ini edi conflict
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+edi bikin konflik
