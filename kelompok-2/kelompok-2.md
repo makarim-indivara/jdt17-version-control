@@ -14,7 +14,8 @@ feature punya idham
 
 
 // bagus edit ya
-
+// bagus tambah lagi buat rebase
+// bagus tambah lagi buat cherry pick
 
 // ini kenzie edit
 
